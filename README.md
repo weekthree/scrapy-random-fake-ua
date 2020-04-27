@@ -1,5 +1,5 @@
 # scrapy-random-fake-ua
-Random User-Agent middleware
+Scrapy random User-Agent middleware
 
 Installation
 -------------
