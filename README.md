@@ -11,8 +11,7 @@ The simplest way is to install it via `pip`:
 Configuration
 -------------
 
-
-.. code:: python
+settings.py
 
     DOWNLOADER_MIDDLEWARES = {
         'scrapy_random_fake_ua.middleware.RandomUserAgentMiddleware': 400,
